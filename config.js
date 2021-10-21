@@ -12,7 +12,7 @@
 // and thanks you to who support my Bot
 
 global.linkGC = ['https://chat.whatsapp.com/GnaUCz2gOLo0xMpBXKNUxi', 'https://chat.whatsapp.com/ChWk4KZMzAQGivQ3Vx1LsV', 'https://chat.whatsapp.com/BL0hpaEfFFNEMnD0mBTppA'] // ganti jadi group lu
-global.owner = ['6281313144291', '6285895774939', '62858957749391'] // Put your number here
+global.owner = ['6285808936396', '6285895774939', '62858957749391'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
