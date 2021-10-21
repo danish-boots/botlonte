@@ -15,6 +15,8 @@ let handler = async (m, { conn, text }) => {
 *Chanel Youtube* : none
 *Gmail* : danishganzz.id@gmail.com
 
+run bot in heroku.com by = ElainaChan / ElainaBot
+
 _Oke udah itu aja terimakasih_
 
 `.trim()
