@@ -3,24 +3,23 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 *BIODATA OWNER*
 
-*Nama* : Danish
-*Umur* : Private
-*Kelas* : Private
-*Status* : Private
+*Nama* : Key
+*Umur* : 17
+*Kelas* : 11
+*Status* : Nolep
 
 *SOSIAL MEDIA*
 
-*instagran* : @danish.or
+*instagran* : @me_kyluesky
 *Facebook* : none
-*Chanel Youtube* : none
-*Gmail* : danishganzz.id@gmail.com
+*Chanel Youtube* : https://youtube.com/c/Kyluesky
+*Gmail* : kylueskynih@gmail.com
 
-run bot in heroku.com by = ElainaChan / ElainaBot
 
 _Oke udah itu aja terimakasih_
 
 `.trim()
-conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'DanishGanz')).buffer(), ext, 'Recoded By DanishGanz', 'Nomor Owner', '.nowner', 'Donasi', '.donasi', 'Sewa Bot', '.sewa', m)
+conn.send3ButtonLoc(m.chat, await (await fetch(fla + 'key')).buffer(), ext, 'nekopoi.care', 'Nomor Owner', '.nowner', 'Donasi', '.donasi', 'Sewa Bot', '.sewa', m)
 
 }
 handler.help = ['owner', 'creator']
